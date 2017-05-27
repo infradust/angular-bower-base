@@ -1,0 +1,21 @@
+{
+  "name": "base",
+  "homepage": "https://github.com/infradust/angular-bower-base",
+  "description": "a base angular component",
+  "main": "main.js",
+  "keywords": [
+    "base"
+  ],
+  "authors": [
+    "danshelly@gmail.com"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
